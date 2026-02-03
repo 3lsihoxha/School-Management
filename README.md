@@ -19,7 +19,7 @@ The application performs CRUD operations only. The database must be created manu
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/3lsihoxha/School-Management.git
 ```
 
 Open the solution file in Visual Studio.
