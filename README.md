@@ -7,8 +7,8 @@ The application performs CRUD operations only. The database must be created manu
 
 ## Requirements
 
-- Visual Studio 2022 or newer  
-  - .NET desktop development workload
+- Visual Studio 2022 or newer
+- .NET desktop development workload
 - SQL Server Express or LocalDB
 - SQL Server Management Studio (SSMS)
 
